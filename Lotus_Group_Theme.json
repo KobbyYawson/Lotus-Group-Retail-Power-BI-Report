@@ -1,0 +1,95 @@
+{
+  "name": "Lotus Group",
+  "dataColors": [
+    "#092F20",
+    "#DD4C70",
+    "#3C6E54",
+    "#E8899F",
+    "#1A5C3E",
+    "#F2B6C2",
+    "#5C8A73",
+    "#C98098"
+  ],
+  "background": "#F6F2F0",
+  "foreground": "#092F20",
+  "tableAccent": "#092F20",
+  "good": "#3C6E54",
+  "bad": "#DD4C70",
+  "neutral": "#C9A876",
+  "maximum": "#092F20",
+  "center": "#E8899F",
+  "minimum": "#F6F2F0",
+  "null": "#C7C2BE",
+  "textClasses": {
+    "callout": {
+      "color": "#092F20",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "title": {
+      "color": "#092F20",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "header": {
+      "color": "#092F20"
+    },
+    "label": {
+      "color": "#4A4A4A"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E6E1DD" } },
+            "radius": 6
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#F6F2F0" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#092F20" } },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#4A4A4A" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#092F20" } }
+          }
+        ]
+      }
+    }
+  }
+}
