@@ -15,7 +15,7 @@ The source data is deliberately imperfect, so most of the work was the full BI w
 - **DAX:** 30+ measures organised in display folders, including time intelligence, returns, customers and store efficiency
 - **Report design:** six pages, a custom theme built from the Lotus Group logo colours, synced year slicers, a bookmark toggle, drill-down charts and conditional formatting
 
-Full write-up: [`Docs/lotus-retail-dashboard-case-study.md`](Docs/lotus-retail-dashboard-case-study.md)
+Full write-up: [`Docs/lotus-retail-dashboard-case-study.md`](Docs/lotus-retail-report-case-study.md)
 
 ## Dashboard pages
 
