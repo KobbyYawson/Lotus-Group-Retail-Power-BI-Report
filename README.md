@@ -1,4 +1,4 @@
-# Lotus Group Retail Dashboard (Power BI)
+# Lotus Group Retail Report (Power BI)
 
 A six-page Power BI report built on a fictional Egyptian retail dataset: messy source files cleaned in Power Query, modelled as a star schema, and analysed with DAX measures covering revenue, customers, products, stores, employees and returns.
 
@@ -15,7 +15,7 @@ The source data is deliberately imperfect, so most of the work was the full BI w
 - **DAX:** 30+ measures organised in display folders, including time intelligence, returns, customers and store efficiency
 - **Report design:** six pages, a custom theme built from the Lotus Group logo colours, synced year slicers, a bookmark toggle, drill-down charts and conditional formatting
 
-Full write-up: [`Docs/lotus-retail-dashboard-case-study.md`](Docs/lotus-retail-report-case-study.md)
+Full write-up: [`Docs/lotus-retail-report-case-study.md`](Docs/lotus-retail-report-case-study.md)
 
 ## Dashboard pages
 
@@ -69,7 +69,7 @@ All figures exclude cancelled orders (495 orders, 1.68M), 2022 to 2024 combined.
 ├── Data/
 │   └── (the 9 source CSV files)
 ├── Docs/
-│   └── lotus-retail-dashboard-case-study.md
+│   └── lotus-retail-report-case-study.md
 └── Images/
     └── (exported page screenshots)
 ```
